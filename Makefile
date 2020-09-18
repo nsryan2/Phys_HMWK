@@ -1,4 +1,4 @@
-manuscript = abstract
+manuscript = lab_report
 references = $(wildcard *.bib)
 latexopt   = -halt-on-error -file-line-error
 
